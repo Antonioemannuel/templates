@@ -1,5 +1,5 @@
 <!--====== Start Testimonial Section ======-->
-<section class="testimonial-area testimonial-area-v2 pb-135 pt-130">
+<section class="testimonial-area testimonial-area-v2 pb-135 pt-100">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5">
