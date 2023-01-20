@@ -30,7 +30,10 @@
         @include('portifolio.serviços')
         @include('portifolio.sobre')
         @include('portifolio.produtos_projetos')
+        @include('portifolio.contatos')
+        @include('portifolio.parceiros')
         @include('portifolio.depoimentos')
+        @include('portifolio.footer')
         </div>
         <!--====== back-to-top ======-->
         <a href="#" class="back-to-top" ><i class="far fa-angle-up"></i></a>
